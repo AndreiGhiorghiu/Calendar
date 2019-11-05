@@ -1,0 +1,11 @@
+.tabs {
+    border: 2px solid #eee;
+    border-bottom: 0 none;
+}
+.tab {
+    display: inline-block;
+    vertical-align: top;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    font-weight: bold;
+}

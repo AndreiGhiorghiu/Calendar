@@ -1,0 +1,23 @@
+.application {
+	font-family: "Open Sans", sans-serif;
+	font-size: 1rem;
+	line-height: 1.5;
+	position: relative;
+	height: 100vh;
+	overflow: auto;
+	color: var(--text_color);
+}
+.tabs {
+	text-align: center;
+	max-width: 50rem;
+	margin: auto;
+}
+.events_list {
+	max-width: 50rem;
+	margin: auto;
+	padding: 3rem;
+}
+.title {
+	font-size: 2rem;
+	font-weight: bold;
+}
